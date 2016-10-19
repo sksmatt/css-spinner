@@ -1,4 +1,4 @@
-# CSS snipper
+# CSS spinner
 
 Simple text based css spinner.
 
